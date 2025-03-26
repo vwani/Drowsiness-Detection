@@ -1,0 +1,4 @@
+train: "C:\\Vinaya\\Drowsiness Detection\\dataset\\images"
+val: "C:\\Vinaya\\Drowsiness Detection\\dataset\\images"
+nc: 2
+names: ["drowsy", "awake"]
